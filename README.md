@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @codebyaisha
+- 👋 Hi, I’m Aisha
 - 👀 I’m interested in coding in general
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML & CSS
 - 📫 How to reach me dev.aisha.codes@gmail.com
 
 <!---
